@@ -250,7 +250,7 @@ header.sticky{
 .booking{
 	height: 40vh;
 	width: 100%;
-	background: url(..//public/img/booking.jpg);
+	background: url(../public/img/booking.jpg);
 	background-size: cover;
 	background-position: center;
 	display: flex;
